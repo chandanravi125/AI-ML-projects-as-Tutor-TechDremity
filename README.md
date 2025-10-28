@@ -29,6 +29,24 @@ The goal is to empower **B.Tech interns** to gain real-world, industry-oriented 
 
 ---
 
+### 🔹 Data Science
+- Exploring data to extract actionable insights using **statistical and analytical methods**  
+- Performing **Exploratory Data Analysis (EDA)**, visual storytelling, and hypothesis testing  
+- **Techniques:** Descriptive & Inferential Statistics, Correlation Analysis, Feature Importance, A/B Testing  
+- **Frameworks/Tools:** Pandas, Matplotlib, Seaborn, Plotly, SciPy, Power BI / Tableau  
+
+📊 **Example Projects:**
+- EDA on Healthcare Appointments (No-Show Analysis)  
+- Sales and Revenue Forecasting Dashboard  
+- Statistical Analysis of Student Performance Dataset  
+
+🧩 **Learning Focus:**
+- Understand the data distribution and relationships  
+- Identify business insights through visualization and interpretation  
+- Translate data patterns into actionable business recommendations  
+
+---
+
 ### 🔹 Machine Learning
 - Building **predictive and classification models** with real-world applications  
 - **Frameworks/Models:** Linear & Logistic Regression, Decision Tree, Random Forest, XGBoost, LightGBM, KNN, SVM  
